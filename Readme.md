@@ -13,7 +13,7 @@ This project is a template for building web applications using React for the fro
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-vite-flask-template.git
+   git clone https://github.com/Painkiller995/React-Vite-Flask-Template.git
    ```
 
 2. Create a virtual environment:
